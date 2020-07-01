@@ -26,7 +26,7 @@
         <jackson.version>2.9.5</jackson.version>
         <lombok.version>1.16.20</lombok.version>
         <oauth2.version>2.2.1.RELEASE</oauth2.version>
-        <mysql.version>8.0.15</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <postgres.version>8.4-702.jdbc4</postgres.version>
     </properties>
 
