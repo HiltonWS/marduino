@@ -25,7 +25,7 @@
         <flywaydb.version>5.0.5</flywaydb.version>
         <jackson.version>2.12.7.1</jackson.version>
         <lombok.version>1.16.20</lombok.version>
-        <oauth2.version>2.2.1.RELEASE</oauth2.version>
+        <oauth2.version>2.2.5.RELEASE</oauth2.version>
         <mysql.version>8.0.28</mysql.version>
         <postgres.version>8.4-702.jdbc4</postgres.version>
     </properties>
