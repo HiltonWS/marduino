@@ -20,7 +20,7 @@
         <postgresql.version>42.4.3</postgresql.version>
 
         <spring.version>5.2.23.RELEASE</spring.version>
-        <spring.hateoas.version>1.4.3</spring.hateoas.version>
+        <spring.hateoas.version>2.1.4</spring.hateoas.version>
 
         <hibernate.version>5.6.15.Final</hibernate.version>
         <flywaydb.version>5.0.5</flywaydb.version>
